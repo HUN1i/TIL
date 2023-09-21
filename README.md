@@ -1,8 +1,10 @@
 # TIL
+
 오늘 내가 배운 것들 글로 정리하기!!
 
 <h3>📁ORM</h3>
   - <a href = "https://github.com/SeunghoonSeunghoon/TIL/blob/master/ORM/ORM.md">ORM이란?</a><br><br>
+  - <a href = "https://github.com/SeunghoonSeunghoon/TIL/blob/master/ORM/Sequelize.md">Sequelize란?</a><br><br>
   
 <h3>📁express.js</h3>
   - <a href = "https://github.com/SeunghoonSeunghoon/TIL/blob/master/express/multer.md">Multer란?</a><br>
