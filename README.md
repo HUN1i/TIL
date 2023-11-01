@@ -1,6 +1,6 @@
 # TIL
 
-오늘 내가 배운 것들 글로 정리하기!!
+오늘 내가 배운 것들!
 
 <h3>📁ORM</h3>
   - <a href = "https://github.com/SeunghoonSeunghoon/TIL/blob/master/ORM/ORM.md">ORM이란?</a><br><br>
